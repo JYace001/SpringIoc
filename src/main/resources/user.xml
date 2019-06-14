@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="user1" class="com.jyace.entity.UserEntity">
+        <property name="userId" value="18"></property>
+        <property name="userName" value="jyace"></property>
+    </bean>
+    <bean id="user2" class="com.jyace.entity.UserEntity">
+        <property name="userId" value="17"></property>
+        <property name="userName" value="lian"></property>
+    </bean>
+</beans>
